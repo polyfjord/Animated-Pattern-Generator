@@ -9,6 +9,9 @@ A single-file web app for creating loopable, parameterized geometric patterns. Y
 * Use the hosted app: [https://tools.polyfjord.com/animated_pattern_generator.html](https://tools.polyfjord.com/animated_pattern_generator.html)
 * Or clone/download and open the HTML file in a modern browser.
 
+## Video demo
+See it in use here: https://youtu.be/SytRgPrfhms?t=606
+
 ## Usage
 
 1. Pick a **Pattern** from the drop-down list.
